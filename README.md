@@ -37,7 +37,7 @@ The question asks for a shortcut; the answer is what a parent would say, in two 
 
 ## Make your own
 
-The remakes you see on TikTok keep the skit's movement, timing and original voice, and swap the person. On [HowIBecome](https://howibecomeamillionaire.com/?utm_source=github&utm_medium=referral&utm_campaign=readme) you upload one photo — of you, a friend who said yes, your dog or your cat — pick a background, and get the finished vertical 9:16 clip, lip-synced to the original sound, usually in about 5 minutes. One clip is $8.99; failed renders are refunded automatically.
+The remakes you see on TikTok keep the skit's movement, timing and original voice, and swap the person. On [HowIBecome](https://howibecomeamillionaire.com/?utm_source=github&utm_medium=referral&utm_campaign=readme) you upload one photo — of you, a friend who said yes, your dog or your cat — pick a background, and get the finished vertical 9:16 clip, lip-synced to the original sound, usually in about 5 minutes. Clips come in one-time packs with no subscription, and failed renders are refunded automatically.
 
 ## Tips for a good result
 
